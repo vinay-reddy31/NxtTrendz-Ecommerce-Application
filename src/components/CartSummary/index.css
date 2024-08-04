@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.order-summary-section {
+  align-self: flex-end;
+}
+
+.checkout-button {
+  background-color: #0b69ff;
+  border-radius: 6px;
+  border-width: 0px;
+  color: #ffffff;
+  padding: 6px;
+}
+.total-amount {
+  font-size: 20px;
+}
+.summary-price {
+  font-weight: bold;
+}
